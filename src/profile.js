@@ -65,7 +65,7 @@ export const skills = [
       description:
         "Para este proyecto quise hacer una app para profecionales, la cual consiste en un calendario de reserva, para asi llevar un orden en las citas medicas de cada paciente",
       image: "proyecto5.jpg",
-      href:"",
+      href:"https://github.com/PulpFiction1234/Proyecto-5",
     },
   
   ];
