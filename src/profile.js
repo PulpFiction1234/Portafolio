@@ -58,7 +58,7 @@ export const skills = [
       description:
         "App react y vite para reservar horas para un restaurante",
       image: "proyecto4.jpg",
-      href: "https://github.com/PulpFiction1234/Proyecto-4",
+      href: "https://rafael-udd.netlify.app/",
     },
     {
       name: "Aplicación de Comercio Electrónico",
